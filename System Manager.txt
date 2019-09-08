@@ -1,0 +1,16 @@
+AWS System Manager 
+
+Paramerter Store
+
+
+Track version 
+Encrypted and as plain text 
+
+
+API Calls possible 
+
+API call happen under umberlla of AWS system manager. So we have to make respective object to call parameter store 
+
+ PutParameter- String, StringList or Secure string (KMS) 
+ GetParamerter 
+ DeleteParameter
