@@ -1,0 +1,9 @@
+API Calls 
+
+AWS System Manager 
+Paramerter Store
+
+
+ PutParameter- String, StringList or Secure string (KMS) 
+ GetParamerter 
+ DeleteParameter

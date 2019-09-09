@@ -1,0 +1,35 @@
+VPC
+
+Virtual Private Cloud
+
+VPC is housed within a chosen AWS region 
+We can pair 2 seperate VPC for making 2 regions speaking with each other
+
+DNS server provided by AWS  
+
+
+Limits of VPC
+
+5 VPC per region  (more request)
+5 internet gateway per region (equal to vpc) 
+50 customer gateway per region
+50 VPN connection per region
+200 route table per region / 50 enteries per route table 
+5 elastic IP address 
+500 security groups per VPC 
+50 rules per security group 
+5 security group per network 
+
+
+Security in VPC
+
+Network Access control list 
+  On network and subnet level
+  Stateless : inbound and outbound rules explicit declration 
+
+Security group
+  Instance level ,
+  configured at VPC dashboard level
+  It is a statefull :
+
+  Only allow rule for security group 
