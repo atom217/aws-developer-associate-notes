@@ -1,0 +1,5 @@
+Dynamo DB notes 
+https://howtotrainyourjava.com/2017/08/24/aws-certified-developer-dynamodb-exam-notes/amp/
+
+Dynamo Db questions and notes 
+http://jayendrapatil.com/aws-dynamodb/
